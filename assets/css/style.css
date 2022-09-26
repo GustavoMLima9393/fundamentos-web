@@ -45,4 +45,25 @@
 
 
 
-/*Estilos da página contato.html/
+/*Estilos da página contato.html*/
+
+    #menu li {
+        display: inline;
+        padding: 15px;
+    }
+    #menu li a {
+        text-decoration: none;
+        color: black;
+    }
+    #menu li a:hover{
+        color: gray;
+    }
+    .contato {
+        display: flex;
+        flex-direction: row;
+    }
+    .endereco {
+        display: flex;
+        flex-direction: row;
+        margin-left: 20%;
+    }
