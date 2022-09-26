@@ -45,8 +45,6 @@
     }
         
 
-
-
 /*Estilos da página contato.html*/
 
     #menu li {
@@ -67,5 +65,7 @@
     .endereco {
         display: flex;
         flex-direction: row;
-        margin-left: 20%;
+    }
+    .ml-50 {
+        margin-left: 50px;
     }
